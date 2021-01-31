@@ -100,6 +100,7 @@ const about = () => {
                       href='https://www.benzinlitre.com/'
                       target='_blank'
                       className='link-benzin'
+  rel='noopener noreferrer'
                     >
                       www.benzinlitre.com
                     </a>
