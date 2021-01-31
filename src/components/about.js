@@ -13,7 +13,7 @@ const about = () => {
               >
                 <div className='col-md-12'>
                   <div className='about-desc'>
-                    <span className='heading-meta'>About Us</span>
+                    <span className='heading-meta'>About Me</span>
                     <h2 className='colorlib-heading'>Who Am I?</h2>
                     <p>Digital Marketer @SEM, Family Member @BenzinLitre. </p>
                     <p>
